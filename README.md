@@ -11,20 +11,20 @@ Instrucciones
 1. Selección del Sistema
 Cada equipo debe elegir un sistema de software realista y viable dentro del tiempo del trabajo, donde se pueda integrar un módulo de IA básico.
 
-Ejemplos sugeridos:
-
-Veterinaria inteligente: predicción de demanda de turnos según histórico.
-
-E-commerce: recomendación de productos a partir de compras previas.
-
-Control de asistencia: detección de patrones de ausentismo con datos simulados.
-
-Sistema de reservas de gimnasio: sugerencia automática de horarios disponibles según preferencias.
+Proyecto:
+Blog De Café
 
 2. Elección de la Metodología Ágil
 Seleccionar y justificar la metodología ágil (Scrum, Kanban, XP).
 
-Documentar cómo se aplicarían roles, iteraciones y flujo de trabajo.
+Cómo se aplicarían roles, iteraciones y flujo de trabajo.
+
+-
+-
+-
+-
+-
+-
 
 3. Análisis de Requisitos con Historias de Usuario
 Definir mínimo 7 historias de usuario.
@@ -76,15 +76,5 @@ Tiempo restante	86 días 11 horas restante
 Última modificación	-
 Comentarios de la entrega	
 Comentarios (0)
-  IFTS 12
-  
 
-Información
-GCBA
-UPCN
-Contacta
-Av. Belgrano 637, CABA
-
- Correo electrónico : ifts12@gmail.com
-
-Copyright ©2020 Todos los derechos reservados
+Copyright ©2025 Todos los derechos reservados equipo #
