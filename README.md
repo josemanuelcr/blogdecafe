@@ -1,4 +1,4 @@
-# blogdecafe
+# BlogDeCafe
 
 INSTITUTO DE FORMACIÓN TÉCNICA SUPERIOR Nº 12
 Desarrollo de Sistemas de Inteligencia Artificial_A_2025.
